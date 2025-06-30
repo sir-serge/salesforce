@@ -50,6 +50,9 @@
     {
           @apply text-xl font-semibold text-sky-950 hover:text-sky-500 ;
     }
+    h1{
+        @apply text-5xl font-semibold text-sky-950 ;
+    }
 
 }
 
