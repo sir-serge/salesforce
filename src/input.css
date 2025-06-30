@@ -37,6 +37,9 @@
     .cardLink {
         @apply text-sky-950 hover:text-sky-500 font-semibold underline;
     }
+    .media{
+        @apply h-10 inline fill-gray-800 mx-1 ;
+    }
 }
 
 @layer base {
